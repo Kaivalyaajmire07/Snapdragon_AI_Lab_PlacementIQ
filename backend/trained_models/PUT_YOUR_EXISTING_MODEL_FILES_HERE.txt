@@ -1,0 +1,5 @@
+Copy the four trained artifacts from your original PlacementIQ project into this folder:
+- placement_model_sem6.pkl
+- kmeans_model.pkl
+- kmeans_scaler.pkl
+- cluster_labels.pkl
